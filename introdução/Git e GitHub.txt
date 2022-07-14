@@ -1,0 +1,10 @@
+#Olá seja bem vindo as anotações sobre meu estudo introdutório ao Git e GitHub 👾
+
+GIT - SISTEMA DE CONTROLE DE VERSÃO DISTRIBUIDO
+
+O Git trabalha com arquitetura de Branch ou Ramificações
+Cada novo Commit ou seja alteração no código cria um novo ponto na ramificação / branch original.
+Ao se criar uma nova branch trabalhando em uma nova funcionalidade se cria nova uma ramificação baseada em outra já existente e os commits realizadas nessa nova ramificação não existira na ramificação original.
+Os arquivos geralmente ficam em um repositório remoto 
+
+image.png
