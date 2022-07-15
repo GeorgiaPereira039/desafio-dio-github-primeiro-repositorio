@@ -134,11 +134,49 @@ O comando **git commit** é usado para confirmar as alterações na cabeça. Ten
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Repositório
+Repositório - Fiz meu primeiro repositório inserindo alguns links de músicas do Youtube. Poderá ver clicando em [Meu primeiro repositório](https://github.com/GeorgiaPereira039/lista-music.git)
 
-[Meu primeiro repositório](https://github.com/GeorgiaPereira039/lista-music.git)
 
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-![Criando Pastas](C:\Users\Geo Silva\Downloads\e5b972023db288a7d746b4ca9f7e95d7.jpg)
-=======
+⚙Passo usado para criar o repositório
+
+Passo 1️⃣ Criando as pastas através do comando:
+
+```
+mkdir Music 
+
+$ cd /c/Music/lista-musica
+```
+
+
+
+Passo 2️⃣ Iniciando o repositório através do comando:
+
+```
+$ git init
+
+Initialized empty Git repository in C:/Music/lista-music/.git/
+
+$ ls -a
+
+./ ../ .git/
+```
+
+
+
+Passo 3️⃣ Configurando um name e um e-mail, para que seja fornecido as commits um autor
+
+
+
+```
+Geo Silva@DESKTOP-6S2KG1T MINGW64 /c/Music/lista-music (master)
+
+$ git config --global user.email "email"
+
+Geo Silva@DESKTOP-6S2KG1T MINGW64 /c/Music/lista-music (master)
+
+$ git config --global user.name &&&&&
+
+
+```
+
