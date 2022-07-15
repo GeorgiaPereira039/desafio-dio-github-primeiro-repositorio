@@ -134,4 +134,5 @@ O comando **git commit** é usado para confirmar as alterações na cabeça. Ten
 
 
 Repositório
-[Meu primeiro repositóo] (https://github.com/GeorgiaPereira039/lista-music.git)
+
+[Meu primeiro repositório](https://github.com/GeorgiaPereira039/lista-music.git)
