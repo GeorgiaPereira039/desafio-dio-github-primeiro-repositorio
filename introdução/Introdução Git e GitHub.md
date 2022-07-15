@@ -131,3 +131,37 @@ O comando **git commit** é usado para confirmar as alterações na cabeça. Ten
 2. É preciso passar o caminho do locar e entregar a chave privada a ele, para isso digite **ssh-add  id_ed25519**
 
 3. Coloque a senha da chave e a entidade será adicionada - **Identity added:     id_ed25519 (mail)**
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Repositório
+
+[Meu primeiro repositório](https://github.com/GeorgiaPereira039/lista-music.git)
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Meu primeiro repositório 
+
+Primeiro vamos **criar** as pastas
+
+Passo 1️⃣ 
+
+mkdir lista-music
+
+**$ cd /c/Music/lista-musica**
+
+bash: cd: /c/Music/lista-musica: No such file or directory
+
+Passo 2️⃣
+
+Agora vamos **iniciar** a GIT
+
+**$ git init**
+
+**Initialized** empty Git repository in C:/Music/lista-music/.git/
+
+$ ls -a
+
+./ ../ .git
+
+![Criando Pastas](C:\Users\Geo Silva\Downloads\e5b972023db288a7d746b4ca9f7e95d7.jpg)
